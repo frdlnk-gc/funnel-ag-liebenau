@@ -1,0 +1,139 @@
+{
+ "firma": "Agrargenossenschaft Liebenau",
+ "stelle": "Landmaschinenmechaniker/Schlosser (m/w/d)",
+ "ort": "Kamenz",
+ "plz": "01917",
+ "branche": "landwirtschaft",
+ "stelle_id": 1490,
+ "farbe_primary": "#067A33",
+ "farbe_secondary": "#07973F",
+ "region_badge": "Kamenz & Umgebung",
+ "benefit_top": "Unbefristet & ohne Montage",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Keine Montageeinsätze mit Übernachtung",
+  "Kostenübernahme für berufliche Zertifizierungen",
+  "Tankgutschein",
+  "Firmenhandy",
+  "Unfallversicherung",
+  "Flache Hierarchien"
+ ],
+ "aufgaben": [
+  "Du reparierst Landmaschinen und landwirtschaftliche Anhänger",
+  "Du übernimmst laufende Instandhaltungsarbeiten an den landwirtschaftlichen Arbeitsgeräten",
+  "Du erledigst Metallbau- und Schweißarbeiten",
+  "Du stimmst dich mit Fachwerkstätten und Ersatzteilhändlern ab"
+ ],
+ "anforderung": "Eine Ausbildung als Landmaschinenmechaniker, im Kfz-Bereich oder im Metallbau und Kenntnisse im Schweißen. Wenn du zuverlässig anpackst und Freude an moderner Landtechnik hast, passt du ins Team.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Landmaschinen / Landtechnik",
+   "icon": "🚜",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Kfz-Bereich",
+   "icon": "🔧",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Metallbau / Schlosserei",
+   "icon": "🔩",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "2.200",
+    "label": "Hektar"
+   },
+   {
+    "zahl": "1.800",
+    "label": "Rinder"
+   },
+   {
+    "zahl": "70",
+    "label": "Mitarbeiter"
+   }
+  ],
+  "text": "Die Agrargenossenschaft Liebenau eG ist ein Landwirtschaftsbetrieb in Kamenz mit den Betriebszweigen Milchproduktion, Pflanzenproduktion und Biogaserzeugung – gegründet 1991. Auf rund 2.200 Hektar bewirtschaftet der Betrieb seine Felder und hält etwa 1.800 Rinder. Durch die enge Verknüpfung von Ackerbau und Tierhaltung schließt er betriebliche Kreisläufe – mit dem Ziel, möglichst nachhaltig zu wirtschaften."
+ },
+ "kunde_tab": "47 Agrargenossenschaft Liebenau",
+ "quelle": "https://ag-liebenau.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Kamenz (01917)"
+ },
+ "hero_bild": "img/hero-ernte-haecksler.jpg",
+ "bilder": [
+  "img/f1-mais-haecksler.jpg",
+  "img/f2-maehdrescher.jpg",
+  "img/f3-grubber.jpg",
+  "img/f4-guellefass.jpg",
+  "img/f5-betrieb-luftbild.jpg",
+  "img/f6-hof-maschinenhallen.jpg"
+ ],
+ "meta_geo": [
+  "Kamenzer Berg 2B, 01917 Kamenz"
+ ]
+}
